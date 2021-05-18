@@ -19,7 +19,7 @@ namespace GitTestProject
 
         private void button1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Привет на всички");
+            MessageBox.Show("Привет на всички, ехо");
         }
     }
 }
