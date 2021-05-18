@@ -1,0 +1,15 @@
+D:\C#_Programs\GitTestProject\GitTestProject\bin\Debug\netcoreapp3.1\GitTestProject.exe
+D:\C#_Programs\GitTestProject\GitTestProject\bin\Debug\netcoreapp3.1\GitTestProject.deps.json
+D:\C#_Programs\GitTestProject\GitTestProject\bin\Debug\netcoreapp3.1\GitTestProject.runtimeconfig.json
+D:\C#_Programs\GitTestProject\GitTestProject\bin\Debug\netcoreapp3.1\GitTestProject.runtimeconfig.dev.json
+D:\C#_Programs\GitTestProject\GitTestProject\bin\Debug\netcoreapp3.1\GitTestProject.dll
+D:\C#_Programs\GitTestProject\GitTestProject\bin\Debug\netcoreapp3.1\GitTestProject.pdb
+D:\C#_Programs\GitTestProject\GitTestProject\obj\Debug\netcoreapp3.1\GitTestProject.csprojAssemblyReference.cache
+D:\C#_Programs\GitTestProject\GitTestProject\obj\Debug\netcoreapp3.1\GitTestProject.MainFrame.resources
+D:\C#_Programs\GitTestProject\GitTestProject\obj\Debug\netcoreapp3.1\GitTestProject.csproj.GenerateResource.cache
+D:\C#_Programs\GitTestProject\GitTestProject\obj\Debug\netcoreapp3.1\GitTestProject.AssemblyInfoInputs.cache
+D:\C#_Programs\GitTestProject\GitTestProject\obj\Debug\netcoreapp3.1\GitTestProject.AssemblyInfo.cs
+D:\C#_Programs\GitTestProject\GitTestProject\obj\Debug\netcoreapp3.1\GitTestProject.csproj.CoreCompileInputs.cache
+D:\C#_Programs\GitTestProject\GitTestProject\obj\Debug\netcoreapp3.1\GitTestProject.dll
+D:\C#_Programs\GitTestProject\GitTestProject\obj\Debug\netcoreapp3.1\GitTestProject.pdb
+D:\C#_Programs\GitTestProject\GitTestProject\obj\Debug\netcoreapp3.1\GitTestProject.genruntimeconfig.cache
