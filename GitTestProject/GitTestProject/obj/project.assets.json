@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\C#_Programs\\GitTestProject\\GitTestProject\\GitTestProject.csproj",
+      "projectUniqueName": "D:\\C#_Programs\\GitTestProject\\GitTestProject\\GitTestProject\\GitTestProject.csproj",
       "projectName": "GitTestProject",
-      "projectPath": "D:\\C#_Programs\\GitTestProject\\GitTestProject\\GitTestProject.csproj",
+      "projectPath": "D:\\C#_Programs\\GitTestProject\\GitTestProject\\GitTestProject\\GitTestProject.csproj",
       "packagesPath": "C:\\Users\\julian_k\\.nuget\\packages\\",
-      "outputPath": "D:\\C#_Programs\\GitTestProject\\GitTestProject\\obj\\",
+      "outputPath": "D:\\C#_Programs\\GitTestProject\\GitTestProject\\GitTestProject\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
